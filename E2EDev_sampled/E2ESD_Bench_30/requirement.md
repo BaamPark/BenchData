@@ -4,10 +4,10 @@ domain: security
 prompt: Develop an event badge generation web application.
 ---
 
-- [ ] When the user accesses the application, the system shall display a form with fields for Event Name, Person Name, Designation, Company Name, and Access Level, along with a 'Generate Badge' button.
-- [ ] The system shall require the user to fill in all fields in the form before allowing submission, ensuring that Event Name, Person Name, Designation, Company Name, and Access Level are provided.
-- [ ] Upon clicking the 'Generate Badge' button, the system shall hide the form and display the badge with the entered Event Name, Person Name, Designation, Company Name, and Access Level.
-- [ ] The system shall generate a unique ID for each badge and include this ID in the QR code displayed on the badge.
-- [ ] The system shall display a QR code on the badge containing the badge details, including ID, Event Name, Person Name, Designation, Company Name, and Access Level.
-- [ ] The system shall display a 'Download Badge' button after the badge is generated, allowing the user to download the badge as a PNG image.
-- [ ] Upon clicking the 'Download Badge' button, the system shall convert the badge to a PNG image and initiate a download to the user's device.
+- When the user accesses the application, the system shall display a form with fields for Event Name, Person Name, Designation, Company Name, and Access Level, along with a 'Generate Badge' button.
+- The system shall require the user to fill in all fields in the form before allowing submission, ensuring that Event Name, Person Name, Designation, Company Name, and Access Level are provided.
+- Upon clicking the 'Generate Badge' button, the system shall hide the form and display the badge with the entered Event Name, Person Name, Designation, Company Name, and Access Level.
+- The system shall generate a unique ID for each badge and include this ID in the QR code displayed on the badge.
+- The system shall display a QR code on the badge containing the badge details, including ID, Event Name, Person Name, Designation, Company Name, and Access Level.
+- The system shall display a 'Download Badge' button after the badge is generated, allowing the user to download the badge as a PNG image.
+- Upon clicking the 'Download Badge' button, the system shall convert the badge to a PNG image and initiate a download to the user's device.
