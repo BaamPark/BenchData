@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_02/
 domain: productivity
-prompt: Develop a note web appcliation. Develop first but don't run app yet. After your implementation, ask me questions if you feel ambiguous
+prompt: Develop a note web application.
 ---
 
 - The system shall allow users to create a new note by clicking the 'Add note' button, and the new note shall open in an empty editable state.
