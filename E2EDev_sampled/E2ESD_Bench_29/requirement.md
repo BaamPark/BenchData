@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_29/
 domain: finance
-prompt: "Develop a personal expense tracker web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
+prompt: "Develop a personal expense tracker web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, DEVELOPMENT_COMPLETE: true if application development is complete and no further user input is needed before testing, otherwise DEVELOPMENT_COMPLETE: false."
 ---
 
 1. When the user loads the application, the system must display the current balance, total income, and total expenses, initialized to $0.00 if no transactions exist.
