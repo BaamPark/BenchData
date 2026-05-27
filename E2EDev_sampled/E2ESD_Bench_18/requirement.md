@@ -14,8 +14,8 @@ prompt: Develop a class timetable management web application.
 8. When the user clicks the 'Add to Timetable' button, the system must reset the form fields to their default state after successfully adding or updating a timetable entry.
 9. The system must display an empty timetable table with headers for 'Time', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', and 'Saturday' when the page loads.
 10. When the user selects multiple days using the checkboxes and clicks the 'Add to Timetable' button, the system must populate the corresponding columns in the timetable table with the subject name for the specified time range.
-11. The system must ensure that the 'Start Time' and 'End Time' fields accept valid time inputs only, using the HTML `<input type='time'>` element.
-12. The system must ensure that the 'Subject' input field accepts text input only, using the HTML `<input type='text'>` element.
+11. The system must ensure that the 'Start Time' and 'End Time' fields accept valid time inputs only.
+12. The system must ensure that the 'Subject' input field accepts text input only.
 13. The system must allow users to select multiple days simultaneously using checkboxes in the 'Days' group.
 14. The system must dynamically update the timetable table without requiring a page reload when the user adds or updates a timetable entry.
 15. The system must display an alert message if the user attempts to submit the form without filling all required fields or selecting at least one day.
