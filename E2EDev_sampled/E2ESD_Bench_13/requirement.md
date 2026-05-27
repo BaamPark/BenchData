@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_13/
 domain: productivity
-prompt: Develop a height unit converter web application.
+prompt: "Develop a height unit converter web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user enters a numeric value in the height input field, the system should display this value in the height output section and make the output row and reset button visible.

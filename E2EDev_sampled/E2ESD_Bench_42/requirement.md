@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_42/
 domain: finance
-prompt: Develop a salary calculator web application.
+prompt: "Develop a salary calculator web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user clicks the 'Calculate Salary' button, the system should retrieve values from all input fields, perform salary calculations, and update the results section with calculated values including hourly salary, daily salary, monthly gross salary, tax deduction, monthly net salary, yearly net salary, overtime earnings, and total earnings.

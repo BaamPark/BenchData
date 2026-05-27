@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_11/
 domain: finance
-prompt: Develop a loan calculator web application.
+prompt: "Develop a loan calculator web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user toggles the dark mode switch, the system should switch the application between light and dark themes.

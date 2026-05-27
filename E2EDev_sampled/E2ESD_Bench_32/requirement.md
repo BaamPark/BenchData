@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_32/
 domain: productivity
-prompt: Develop a task management web application.
+prompt: "Develop a task management web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. Users can add a task by clicking the 'Add Task' button. Context: User enters text in the task input field and clicks the 'Add Task' button. User Action: Clicks 'Add Task' button. System Response: The system adds the task to the task list, clears the input field, and displays the 'Clear All' button.

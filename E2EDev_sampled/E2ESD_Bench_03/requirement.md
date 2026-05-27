@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_03/
 domain: e-commerce
-prompt: Develop movie reservation web application.
+prompt: "Develop movie reservation web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user selects a movie from the dropdown menu, the system updates the ticket price for the selected movie.

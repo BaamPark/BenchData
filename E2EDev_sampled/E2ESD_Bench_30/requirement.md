@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_30/
 domain: security
-prompt: Develop an event badge generation web application.
+prompt: "Develop an event badge generation web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user accesses the application, the system shall display a form with fields for Event Name, Person Name, Designation, Company Name, and Access Level, along with a 'Generate Badge' button.

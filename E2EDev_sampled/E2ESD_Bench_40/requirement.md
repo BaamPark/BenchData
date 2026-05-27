@@ -1,7 +1,7 @@
 ---
 url: https://anonymous.4open.science/r/E2EDev/E2EDev_data/E2ESD_Bench_40/
 domain: security
-prompt: Develop a password generator web application.
+prompt: "Develop a password generator web application. You can ask questions if you need more information, except for technical questions. At the end of every response, include exactly one line in the form, TASK_DONE: true if you believe the application is complete and no further user input is needed, otherwise TASK_DONE: false."
 ---
 
 1. When the user clicks the 'Generate Password' button, the system should generate a password based on the selected criteria (length, inclusion of uppercase, lowercase, numbers, symbols) and display it in the result area.
