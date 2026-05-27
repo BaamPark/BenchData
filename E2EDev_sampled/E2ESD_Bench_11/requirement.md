@@ -4,7 +4,7 @@ domain: finance
 prompt: Develop a loan calculator web application.
 ---
 
-1. When the user toggles the dark mode switch, the system should apply or remove the 'dark-mode' class to the body element, changing the application's theme.
+1. When the user toggles the dark mode switch, the system should switch the application between light and dark themes.
 2. When the user enters a value in the 'Loan Amount' input field, the system should accept and store the numeric value for calculation purposes.
 3. When the user enters a value in the 'Interest Rate' input field, the system should accept and store the numeric value for calculation purposes.
 4. When the user enters a value in the 'Loan Term' input field, the system should accept and store the numeric value for calculation purposes.

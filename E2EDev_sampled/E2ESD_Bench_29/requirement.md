@@ -10,5 +10,5 @@ prompt: Develop a personal expense tracker web application.
 4. When the user clicks the 'Add Transaction' button, the system must validate that both the description and amount fields are filled with valid data. If not, an alert must be displayed to the user.
 5. Upon successful validation, the system must add the transaction to the transaction history, update the balance, income, and expense values, and clear the input fields.
 6. The system must display each transaction in the transaction history with the date, description, amount, and an option to remove the transaction.
-7. When the user clicks the 'X' button next to a transaction in the transaction history, the system must remove the transaction, update the balance, income, and expense values, and update the local storage.
-8. The system must store all transactions in local storage to ensure data persistence across page reloads. Upon loading the application, the system must retrieve and display stored transactions.
+7. When the user clicks the 'X' button next to a transaction in the transaction history, the system must remove the transaction and update the balance, income, and expense values.
+8. The system must preserve all transactions across page reloads. Upon loading the application, the system must retrieve and display stored transactions.
